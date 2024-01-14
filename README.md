@@ -1,4 +1,4 @@
-# Handwritten Digit Recognition with Convolutional Neural Network
+# Handwritten Digit Recognition with Convolutional Neural Network 
 
 ## Overview
 This project implements a Convolutional Neural Network (ConvNet) for handwritten digit recognition using the MNIST dataset. The model is built using Keras, a high-level deep learning API, with TensorFlow as the backend for low-level operations. The project also utilizes NumPy for matrix operations and Matplotlib for visualization.
